@@ -1,3 +1,9 @@
+# [dbdeployer continues at ProxySQL](https://github.com/ProxySQL/dbdeployer)
+
+See the [announcement](https://proxysql.com/blog/proxysql-dbdeployer-whats-coming/).
+
+----
+
 [The end of dbdeployer](https://datacharmer.github.io/end-of-dbdeployer/)
 
 # dbdeployer
